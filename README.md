@@ -1,0 +1,2 @@
+# LearnStandardMavenProject
+标准化Maven工程示例
